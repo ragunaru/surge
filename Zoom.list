@@ -1,0 +1,9 @@
+# Zoom meeting
+DOMAIN-SUFFIX,zoom.us
+DOMAIN-SUFFIX,zpns.zoom.us
+DOMAIN-SUFFIX,cloud.zoom.us
+DOMAIN-SUFFIX,zoom.us
+DOMAIN-SUFFIX,zoomgov.com
+DOMAIN-SUFFIX,zoomdev.us
+DOMAIN-KEYWORD,zoom
+PROCESS-NAME,zoom.us
