@@ -1,12 +1,12 @@
 
 #!name= News Proxy: 📍 Location
 #!category= News Proxy
-#!arguments=GeoCountryCode:US
+#!arguments=GeoCountryCode:US,Proxy:Seattle
 #!arguments-desc=WTF
 
 [Rule]
 # 📍 Country Code
-DOMAIN,gspe1-ssl.ls.apple.com,Seattle
+DOMAIN,gspe1-ssl.ls.apple.com,{{{Proxy}}}
 
 [Script]
 # 📍 Country Code
