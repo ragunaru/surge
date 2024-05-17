@@ -14,3 +14,17 @@ DOMAIN-SUFFIX,dribbble.com
 DOMAIN-SUFFIX,ankiweb.net
 DOMAIN-SUFFIX,sinosplice.com
 DOMAIN-SUFFIX,sendgrid.com
+DOMAIN-SUFFIX,brewfather.app
+DOMAIN-SUFFIX,behance.net
+DOMAIN-SUFFIX,gg-global-cdn.com
+DOMAIN-SUFFIX,etherscan.io
+DOMAIN-SUFFIX,kegland.com.au
+DOMAIN-SUFFIX,react-day-picker.js.org
+
+
+# Specific domains
+
+DOMAIN,assets-prism-ai.s3.us-west-2.amazonaws.com
+DOMAIN,alpha-prism-ai.s3.us-west-2.amazonaws.com
+
+DOMAIN,v2rayssr.com
