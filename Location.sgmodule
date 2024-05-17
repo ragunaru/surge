@@ -2,7 +2,7 @@
 #!name= News Proxy: 📍 Location
 #!category= News Proxy
 #!arguments=GeoCountryCode:US
-#!arguments-desc='No idea what's going on'
+#!arguments-desc=WTF
 
 [Rule]
 # 📍 Country Code
