@@ -26,12 +26,10 @@ DOMAIN-SUFFIX,jwpltx.com
 DOMAIN-SUFFIX,mazsystems.com
 DOMAIN-SUFFIX,mazdigital.com
 DOMAIN-SUFFIX,beermaverick.com
-# Crypto related things
 DOMAIN-SUFFIX,coinmarketcap.com
 DOMAIN-SUFFIX,etherscan.io
 DOMAIN-SUFFIX,elrond.com
 DOMAIN-SUFFIX,multiversx.com
-# Specific domains
 DOMAIN,assets-prism-ai.s3.us-west-2.amazonaws.com
 DOMAIN,alpha-prism-ai.s3.us-west-2.amazonaws.com
 DOMAIN,v2rayssr.com
