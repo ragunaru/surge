@@ -1,4 +1,4 @@
-# All other random rules that are not covered by the biguns.
+# All other random rules that are not covered by the big'uns.
 DOMAIN-SUFFIX,nssurge.com
 DOMAIN-SUFFIX,rottentomatoes.com
 DOMAIN-SUFFIX,tenor.com
@@ -23,7 +23,6 @@ DOMAIN-SUFFIX,gumroad.com
 DOMAIN-SUFFIX,chargebeestaticv2.com
 DOMAIN-SUFFIX,beerandbrewing.com
 DOMAIN-SUFFIX,jwpltx.com
-DOMAIN-SUFFIC,godaddy.com
 DOMAIN-SUFFIX,mazsystems.com
 DOMAIN-SUFFIX,mazdigital.com
 DOMAIN-SUFFIX,beermaverick.com
