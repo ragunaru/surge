@@ -1,8 +1,6 @@
 # All other random rules that are not covered by the big'uns.
 DOMAIN-SUFFIX,nssurge.com
 DOMAIN-SUFFIX,rottentomatoes.com
-DOMAIN-SUFFIX,tenor.com
-DOMAIN-KEYWORD,tenor
 DOMAIN-SUFFIX,klaviyo.com
 DOMAIN-SUFFIX,proxifier.com
 DOMAIN-SUFFIX,ipvanish.com
