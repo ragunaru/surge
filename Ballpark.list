@@ -1,5 +1,8 @@
+# Ballpark & work related things
 DOMAIN-KEYWORD,ballparkhq
 DOMAIN-SUFFIX,ballparkhq.com
 DOMAIN-SUFFIX,askhub.dev
 DOMAIN,marvel-dev.freetls.fastly.net
 DOMAIN,marvel-live.freetls.fastly.net
+DOMAIN-SUFFIX, linear.app
+PROCESS-NAME, /Applications/Linear.app/Contents/Frameworks/Linear Helper.app/Contents/MacOS/Linear Helper
