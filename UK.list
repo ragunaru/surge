@@ -1,0 +1,4 @@
+# UK-specific rules
+DOMAIN-KEYWORD,monzo
+DOMAIN-SUFFIX,monzo.co.uk
+DOMAIN-SUFFIX,ee.co.uk
