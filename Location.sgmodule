@@ -1,12 +1,13 @@
-
-#!name= News Proxy: 📍 Location
-#!category= News Proxy
-#!arguments=GeoCountryCode:US,Proxy:Seattle
-#!arguments-desc=WTF
+#!name=News Proxy Location
+#!desc=No clue what is going on
+#!openUrl=http://boxjs.com/#/app/iRingo.Location
+#!category=News Proxy
+#!arguments=GeoCountryCode:US
+#!arguments-desc=GeoCountryCode: Country or region code
 
 [Rule]
 # 📍 Country Code
-DOMAIN,gspe1-ssl.ls.apple.com,{{{Proxy}}}
+DOMAIN,gspe1-ssl.ls.apple.com,DIRECT
 
 [Script]
 # 📍 Country Code
